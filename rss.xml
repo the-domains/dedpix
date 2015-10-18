@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[DEDPIX]]></title>
         <description><![CDATA[DEDPIX]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dedpix/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 18 Oct 2015 19:29:36 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 18 Oct 2015 19:36:52 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dedpix/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6929da4a-d1be-42ca-8cda-0abc32eb7410.jpg">]]></description>
+            <link>https://thegrid.ai/dedpix/14837802-841d-4436-a408-f281eea3d5b6/index.html</link>
+            <guid isPermaLink="false">14837802-841d-4436-a408-f281eea3d5b6</guid>
+            <pubDate>Sun, 18 Oct 2015 19:36:44 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>ABOUT THE TRAIN - PART TWO | X100</p>]]></description>
-            <link>undefinedec593903-d9cb-42fa-b476-e7609c3dc865/index.html</link>
+            <link>https://thegrid.ai/dedpix/ec593903-d9cb-42fa-b476-e7609c3dc865/index.html</link>
             <guid isPermaLink="false">ec593903-d9cb-42fa-b476-e7609c3dc865</guid>
             <pubDate>Sun, 18 Oct 2015 19:29:36 GMT</pubDate>
         </item>
