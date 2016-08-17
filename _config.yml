@@ -2,6 +2,7 @@ name: DEDPIX
 favicon: null
 layout_spectrum: 0.7457
 typography_spectrum: 0.8829195743892342
+title: dedpix
 cta:
   domain: null
   bucket: null
